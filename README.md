@@ -2,7 +2,7 @@
 Barcatto
 
 <h1> SPA build with VUE js </h1>
-<h2> A platform on wich users can exchange and barter items </h2>
+<h2> A platform on which users can exchange and barter items </h2>
 <p>My final project in Coding Academy bootcamp</p>
 <pre>
 check it out !!
